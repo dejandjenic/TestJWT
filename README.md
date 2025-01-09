@@ -4,7 +4,7 @@ TestJWT is a library created to support working with dotnet api in test environm
 
 ## Usage
 
-* Install TestJWT from nuget
+* Install TestJWTLibrary from nuget
 
 inside your tests instantiate generator class
 
