@@ -9,7 +9,7 @@ TestJWTLibrary is a library created to support working with dotnet api in test e
 inside your tests instantiate generator class
 
 ```csharp
-TestJWT.Generator generator = new();
+TestJWTLibrary.Generator generator = new();
 ```
 
 setup test server 
