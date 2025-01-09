@@ -13,7 +13,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\TestJWT\TestJWT.csproj" />
+      <ProjectReference Include="..\TestJWTLibrary\TestJWTLibrary.csproj" />
     </ItemGroup>
 
 </Project>

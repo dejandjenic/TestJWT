@@ -24,7 +24,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\TestJWT.API\TestJWT.API.csproj" />
-      <ProjectReference Include="..\TestJWT\TestJWT.csproj" />
+      <ProjectReference Include="..\TestJWTLibrary\TestJWTLibrary.csproj" />
     </ItemGroup>
 
 </Project>

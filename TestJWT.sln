@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestJWT", "TestJWT\TestJWT.csproj", "{43F0EFFB-9409-4BA6-A665-D4003823737A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestJWTLibrary", "TestJWTLibrary\TestJWTLibrary.csproj", "{43F0EFFB-9409-4BA6-A665-D4003823737A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{0B94C542-ED5B-4561-BF42-6AC9F9A5730D}"
 EndProject

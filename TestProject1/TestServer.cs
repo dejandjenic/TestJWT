@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.Testing;
 
 namespace TestProject1;
 
-public class TestServer(TestJWT.Generator generator) : WebApplicationFactory<Program>
+public class TestServer(TestJWTLibrary.Generator generator) : WebApplicationFactory<Program>
 {
     protected override void ConfigureWebHost(IWebHostBuilder builder)
     {

@@ -11,7 +11,7 @@ public class TestJwtTests
     {
         var issuer = "https://auth.example.com";
         var audience = "https://api.example.com";
-        var generatorObject = new TestJWT.Generator();
+        var generatorObject = new TestJWTLibrary.Generator();
 
         var token = generatorObject.GenerateJwt();
         
@@ -31,7 +31,7 @@ public class TestJwtTests
     {
         var issuer = "https://auth2.example.com";
         var audience = "https://api2.example.com";
-        var generatorObject = new TestJWT.Generator(issuer, audience);
+        var generatorObject = new TestJWTLibrary.Generator(issuer, audience);
 
         var token = generatorObject.GenerateJwt(audience:audience,userId:"some");
         

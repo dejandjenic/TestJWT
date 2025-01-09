@@ -8,7 +8,7 @@ namespace TestProject1;
 
 public class APITest
 {
-    TestJWT.Generator generator = new();
+    TestJWTLibrary.Generator generator = new();
     
     [Fact]
     public async Task AuthorizedRoleTest()

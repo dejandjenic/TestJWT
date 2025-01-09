@@ -1,6 +1,6 @@
-# TestJWT
+# TestJWTLibrary
 
-TestJWT is a library created to support working with dotnet api in test environment.
+TestJWTLibrary is a library created to support working with dotnet api in test environment.
 
 ## Usage
 

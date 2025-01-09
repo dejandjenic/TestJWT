@@ -12,6 +12,7 @@
         <Product>TestJWTLibrary</Product>
         <PackageReadmeFile>README.md</PackageReadmeFile>
         <PackageProjectUrl>https://github.com/dejandjenic/TestJWT</PackageProjectUrl>
+        <RootNamespace>TestJWT</RootNamespace>
     </PropertyGroup>
 
 
